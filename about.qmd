@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+About this site.
+<br/>
+This is a site to pracitce creating an online portfolio.
